@@ -138,4 +138,4 @@ Attribution required.
 
 ## Author
 
-Concept & system architecture by: **[Chen-He Hong]**
+Concept & system architecture by: **[Chen-He Hung]**
