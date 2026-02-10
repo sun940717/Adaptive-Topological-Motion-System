@@ -74,6 +74,55 @@ In ATMS, morphology is mutable and does not define identity.
 
 ---
 
+## Undifferentiated Morphology
+
+A morphology that lacks distinct or identifiable structural features.
+
+In ATMS, undifferentiated morphologies are not treated as invalid.  
+Instead, they are initialized through uniform or quasi-uniform distribution of latent nodes across the available form space.
+
+This process establishes a minimal topological substrate upon which actions and future differentiation may occur.
+
+---
+
+## Feature Seeding
+
+The process by which latent or inherited features are distributed across a topology.
+
+When a morphology originates from an undifferentiated state, features may be seeded evenly or stochastically across nodes.
+
+Feature seeding defines *potential for differentiation*, not fixed structure.
+
+---
+
+## Feature Redistribution
+
+A mechanism by which inherited features are reassigned across a topology during combination, reproduction, or hybridization events.
+
+Rather than inheriting complete structures, descendant morphologies receive redistributed features at the node or relational level.
+
+Redistribution is stochastic but constrained by topological validity.
+
+---
+
+## Inheritance Event
+
+An operation in which two or more morphologies contribute features to a resulting morphology.
+
+Inheritance in ATMS does not imply biological reproduction, but topological recombination.
+
+Feature allocation during inheritance may be randomized, redistributed, or partially preserved.
+
+---
+
+## Constraint-Bounded Learning
+
+A generation paradigm in which machine learning models propose morphological or behavioral structures within predefined system constraints.
+
+In ATMS, learning mechanisms do not replace rules, but operate inside coherence, continuity, and topological validity bounds.
+
+---
+
 ## Node
 
 The fundamental unit of transformation in a topological entity.
@@ -121,4 +170,6 @@ Topological entities are the primary subjects of ATMS-driven behavior.
 The condition that ensures an action respects the structural rules of a topology.
 
 Actions that violate topological validity are rejected or corrected.
+
+Extend glossary with morphology initialization and inheritance rules
 
